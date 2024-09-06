@@ -6,7 +6,7 @@
 </head>
 <body>
     <div>
-        <img src="" alt="Banner Image" class="banner">
+        <img src="writeright.png" alt="Banner Image" class="banner">
     </div>
 </body>
 </html>
