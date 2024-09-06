@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <div>
+        <img src="" alt="Banner Image" class="banner">
+    </div>
+</body>
+</html>
+<body>
     <h1>Chrome Extension for Grammar Improvement Using Hugging Face API</h1>
     <p>This repository contains the files for a Google Chrome extension that uses the Hugging Face API to provide grammatically improved versions of input text. The backend is powered by a Flask server.</p>
     <h2>Table of Contents</h2>
