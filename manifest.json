@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "WriteRight",
+    "version": "0.0.1",
+    "description": "A simple Chrome extension to improve grammatical errors of input text.",
+    "permissions": [
+      "activeTab"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "writeright.png",
+        "32": "writeright.png",
+        "48": "writeright.png",
+        "128": "writeright.png"
+      }
+    },
+    "icons": {
+      "16": "writeright.png",
+      "32": "writeright.png",
+      "48": "writeright.png",
+      "128":"writeright.png"
+  }
+  }
