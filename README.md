@@ -24,9 +24,7 @@
 </head>
 <body>
     <h1>Chrome Extension for Grammar Improvement Using Hugging Face API</h1>
-
     <p>This repository contains the files for a Google Chrome extension that uses the Hugging Face API to provide grammatically improved versions of input text. The backend is powered by a Flask server.</p>
-
     <h2>Table of Contents</h2>
     <ul>
         <li><a href="#overview">Overview</a></li>
@@ -38,10 +36,8 @@
         <li><a href="#contributing">Contributing</a></li>
         <li><a href="#license">License</a></li>
     </ul>
-
     <h2 id="overview">Overview</h2>
     <p>This Chrome extension allows users to input text and receive a grammatically improved version using the Hugging Face API. The extension communicates with a Flask server that processes the input and returns the corrected text.</p>
-
     <h2 id="features">Features</h2>
     <ul>
         <li>Input text through the Chrome extension.</li>
@@ -49,16 +45,13 @@
         <li>User-friendly interface with a simple form and result display.</li>
         <li>Flask server backend to handle API requests.</li>
     </ul>
-
     <h2 id="installation">Installation</h2>
-
     <h3>Prerequisites</h3>
     <ul>
         <li>Python 3.x</li>
         <li>pip (Python package installer)</li>
         <li>Node.js and npm (for Chrome extension development)</li>
     </ul>
-
     <h3>Setup</h3>
     <ol>
         <li><strong>Clone the repository:</strong>
@@ -92,7 +85,6 @@ Flask-CORS==3.0.10</code></pre>
             </ul>
         </li>
     </ol>
-
     <h2 id="usage">Usage</h2>
     <ol>
         <li><strong>Start the Flask server:</strong>
@@ -107,7 +99,6 @@ Flask-CORS==3.0.10</code></pre>
             </ul>
         </li>
     </ol>
-
     <h2 id="file-structure">File Structure</h2>
     <pre><code>.
 ├── app.py                # Flask server application
@@ -116,7 +107,6 @@ Flask-CORS==3.0.10</code></pre>
 ├── popup.js              # Chrome extension JavaScript file
 ├── requirements.txt      # Python dependencies
 └── README.md             # This README file</code></pre>
-
     <h2 id="technologies-used">Technologies Used</h2>
     <ul>
         <li><strong>Flask</strong>: Python web framework for the server.</li>
@@ -125,7 +115,6 @@ Flask-CORS==3.0.10</code></pre>
         <li><strong>Hugging Face API</strong>: API for grammar correction.</li>
         <li><strong>HTML, CSS, JavaScript</strong>: Frontend technologies for the Chrome extension.</li>
     </ul>
-
     <h2 id="contributing">Contributing</h2>
     <p>Contributions are welcome! Please follow these steps to contribute:</p>
     <ol>
@@ -135,7 +124,6 @@ Flask-CORS==3.0.10</code></pre>
         <li>Push to the branch (<code>git push origin feature-branch</code>).</li>
         <li>Open a Pull Request.</li>
     </ol>
-
     <h2 id="license">License</h2>
     <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 </body>
