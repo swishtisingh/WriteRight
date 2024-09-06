@@ -3,24 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README.md</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        code {
-            background: #f4f4f4;
-            border: 1px solid #ddd;
-            padding: 5px;
-        }
-        pre {
-            background: #f4f4f4;
-            border: 1px solid #ddd;
-            padding: 10px;
-            overflow-x: auto;
-        }
-    </style>
 </head>
 <body>
     <h1>Chrome Extension for Grammar Improvement Using Hugging Face API</h1>
