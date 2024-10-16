@@ -43,8 +43,8 @@
     <h3>Setup</h3>
     <ol>
         <li><strong>Clone the repository:</strong>
-            <pre><code>git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name</code></pre>
+            <pre><code>git clone https://github.com/swishtisingh/WriteRight.git
+cd WriteRight</code></pre>
         </li>
         <li><strong>Set up the Flask server:</strong>
             <ul>
