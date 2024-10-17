@@ -116,3 +116,11 @@ Flask-CORS==3.0.10</code></pre>
     <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 </body>
 </html>
+
+## Author
+
+### Srishti Singh
+Data Scientist and Machine Learning Enthusiast
+Feel free to connect with me on [LinkedIn.](https://www.linkedin.com/in/srishti-singh-921aa52aa/)
+
+### Happy Coding!
